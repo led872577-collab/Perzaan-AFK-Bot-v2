@@ -3,12 +3,12 @@
 {
   "name": "Danhmc.net",
   "bot-account": {
-    "username": "RedhoodVN",
+    "username": "ADMIN SERVER",
     "password": "Danhff0000",
     "type": "offline"
   },
   "server": {
-    "ip": "danhmcnett.aternos.me",
+    "ip": "danhmc.ddns.net:24221",
     "port": 24221,
     "version": "1.21.11"
   },
